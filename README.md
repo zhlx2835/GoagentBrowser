@@ -1,5 +1,6 @@
 FQ浏览器|科学上网浏览器
 绿色解压包http://dwz.cn/AtunQ
+http://www.eqishare.com/read.php?tid-768.html
 
 最新绿色解压版，最新的火狐版本，最新的goagent版本。让你畅享自由网络。
 浏览器中自带下载YouTube插件Flash Video Downloader。
@@ -11,6 +12,7 @@ FQ浏览器|科学上网浏览器
 
 
 绿色解压版：http://dwz.cn/AtunQ
+http://www.eqishare.com/read.php?tid-768.html
 
 重要：goagent的里经常出现黄色红色字体，就需要经常替换goagent ip
 Goagent 最新可用 IP 最新Google可用IP 长期更新 
